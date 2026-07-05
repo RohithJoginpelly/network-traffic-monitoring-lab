@@ -64,5 +64,4 @@ Conclusion
 This lab demonstrates how network monitoring and IDS tools can detect and analyze attacks in real time.
 It provides hands-on experience relevant for:
 SOC Analyst roles
-Cybersecurity Analyst positions
-Network Security roles
+
